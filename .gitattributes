@@ -1,5 +1,5 @@
 *.yml linguist-language=Python
-*.js linguist-language=JavaScript
+*.html linguist-language=Python
 *.sql linguist-language=Python
 *.uml linguist-language=Python
 *.cmd linguist-language=Batchfile
